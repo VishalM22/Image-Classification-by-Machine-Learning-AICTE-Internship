@@ -23,11 +23,10 @@ Implementation-of-ML-model-for-image-classification is a Streamlit app that inte
 - A web browser
 
 ### Select the app where you want to code
-
- -GoogleCollab
- -Jupyter Notebook
- -Anaconda
- -VsCode [ Need to Install python and give the global environment selection path]
+  -GoogleCollab
+  -Jupyter Notebook
+  -Anaconda
+  -VsCode [ Need to Install python and give the global environment selection path]
 
 ### Installation
 
