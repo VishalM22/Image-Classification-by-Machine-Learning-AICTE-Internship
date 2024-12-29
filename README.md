@@ -22,7 +22,8 @@ Implementation-of-ML-model-for-image-classification is a Streamlit app that inte
 - Python 3.7 or later
 - A web browser
 
-*Select the app where you want to code
+###Select the app where you want to code
+
  -GoogleCollab
  -Jupyter Notebook
  -Anaconda
