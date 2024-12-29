@@ -33,8 +33,7 @@ VsCode [ Need to Install python and give the global environment selection path]
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JayRathod341997/DeepLensX.git
-   cd Implementation-of-ML-model-for-image-classification
+   https://github.com/VishalM22/Image-Classification-by-Machine-Learning-AICTE-Internship.git
 2. **Create and activate a virtual environment**:
     ```bash
     python -m venv venv
